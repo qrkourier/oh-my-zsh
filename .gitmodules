@@ -1,0 +1,6 @@
+[submodule "pure"]
+	path = pure
+	url = ./pure
+[submodule "git-flow-completion"]
+	path = git-flow-completion
+	url = ./git-flow-completion
